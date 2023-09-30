@@ -4,7 +4,7 @@ import 'images.dart';
 
 class AppConstants {
   static const String APP_NAME = 'Joy_Agent';
-  static const String BASE_URL = 'https://app.socialfameus.com';
+  static const String BASE_URL = 'https://globalad.xyz/joycash/admin';
   static const bool DEMO = true;
   static const double APP_VERSION = 2.1;
   static const String AGENT_PHONE_CHECK_URI = '/api/v1/agent/auth/check-phone';
